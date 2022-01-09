@@ -1,1 +1,2 @@
-# my-own-game-9-1-2022
+# synchronousBallMovement
+Ball moving synchronously
